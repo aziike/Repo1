@@ -19,4 +19,19 @@ if guess == number:
 else:
     print('You did not guess the number, The number was ' + str(number))
 
-    
+ # Ask user to input name
+ # Set number of guesses to zero
+ # print "Ok user Im guessing a number"
+ # While number of guesses is less than 5 do below command
+ #   Ask user to input guess number
+ #   add one to number of guessess
+ #   if user's guess number is less than random number
+ #       print "your guess is too low"
+ #   if user's guess number is more than random number
+ #       print "your guess is too high"
+ #   if user's guess number is equall to random number
+ #       break from while loop
+ # if user's guess number equall the random number 
+ #    print " you guessed the number in number of guesses times tries"
+ # otherwise print" you did not guess the number and number was: "
+ #End program
